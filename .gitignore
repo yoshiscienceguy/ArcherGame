@@ -5,33 +5,33 @@
 /[Bb]uilds/
 /Assets/AssetStoreTools*
 
-/Prototype/[Ll]ibrary/
-/Prototype/[Tt]emp/
-/Prototype/[Oo]bj/
-/Prototype/[Bb]uild/
-/Prototype/[Bb]uilds/
-/Prototype/Assets/AssetStoreTools*
+/ArcherGame/[Ll]ibrary/
+/ArcherGame/[Tt]emp/
+/ArcherGame/[Oo]bj/
+/ArcherGame/[Bb]uild/
+/ArcherGame/[Bb]uilds/
+/ArcherGame/Assets/AssetStoreTools*
 
-Prototype/[Ll]ibrary/
-Prototype/[Tt]emp/
-Prototype/[Oo]bj/
-Prototype/[Bb]uild/
-Prototype/[Bb]uilds/
-Prototype/Assets/AssetStoreTools*
+ArcherGame/[Ll]ibrary/
+ArcherGame/[Tt]emp/
+ArcherGame/[Oo]bj/
+ArcherGame/[Bb]uild/
+ArcherGame/[Bb]uilds/
+ArcherGame/Assets/AssetStoreTools*
 
-\Prototype\[Ll]ibrary\
-\Prototype\[Tt]emp\
-\Prototype\[Oo]bj\
-\Prototype\[Bb]uild\
-\Prototype\[Bb]uilds\
-\Prototype\Assets\AssetStoreTools*
+\ArcherGame\[Ll]ibrary\
+\ArcherGame\[Tt]emp\
+\ArcherGame\[Oo]bj\
+\ArcherGame\[Bb]uild\
+\ArcherGame\[Bb]uilds\
+\ArcherGame\Assets\AssetStoreTools*
 
-Prototype\[Ll]ibrary\
-Prototype\[Tt]emp\
-Prototype\[Oo]bj\
-Prototype\[Bb]uild\
-Prototype\[Bb]uilds\
-Prototype\Assets\AssetStoreTools*
+ArcherGame\[Ll]ibrary\
+ArcherGame\[Tt]emp\
+ArcherGame\[Oo]bj\
+ArcherGame\[Bb]uild\
+ArcherGame\[Bb]uilds\
+ArcherGame\Assets\AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
