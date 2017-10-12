@@ -25,6 +25,8 @@ public class aimControl : MonoBehaviour {
         Bow.SetActive(false);
         Arrow.SetActive(false);
         Crosshair.enabled = false;
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
 	
 	// Update is called once per frame
